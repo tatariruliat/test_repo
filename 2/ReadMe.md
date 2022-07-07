@@ -1,0 +1,3 @@
+# Pushinka trash
+
+Trash pushinka
