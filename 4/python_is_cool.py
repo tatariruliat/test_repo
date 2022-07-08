@@ -14,3 +14,6 @@ parent.mainloop()
 
 # More about Tkinter
 # https://pythonru.com/uroki/obuchenie-python-gui-uroki-po-tkinter
+
+
+# Changes
